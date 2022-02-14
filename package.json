@@ -1,0 +1,19 @@
+{
+  "name": "node-stripe-checkout-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "2.8.4",
+    "express": "4.16.4",
+    "stripe": "8.199.0",
+    "uuid": "8.3.2"
+  },
+  "engines": {
+    "node": "14.18.3"
+  },
+  "keywords": []
+}
