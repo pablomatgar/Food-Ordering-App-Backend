@@ -1,5 +1,5 @@
 # Food Ordering App Backend
-This repository contains backend part of [Food Ordering App](https://github.com/DomSas/Food-Ordering-App) to communicate with Stripe for online payments. Tutorial is available on this Medium blog.
+This repository contains backend part of [Food Ordering App](https://github.com/pablomatgar/Food-Ordering-App) to communicate with Stripe for online payments. Tutorial is available on this Medium blog.
 
 ### Files
 
